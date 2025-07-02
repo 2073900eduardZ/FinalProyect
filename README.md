@@ -1,7 +1,7 @@
-##Análisis Comparativo de
-Huellas evolutivas en felinos
 
-Edward Oña
+#Huellas evolutivas en felinos
+
+#Edward Oña
 
 Este proyecto compara las huellas evolutivas del tigre (Panthera tigris) y el león (Panthera leo) mediante el análisis filogenético de dos genes ortólogos obtenidos de NCBI:
 el mitocondrial cytochrome b (MT-CYB) y el nuclear RAG1. Se exploran las diferencias y concordancias evolutivas reflejadas en ambos tipos de ADN, revelando cómo la herencia
@@ -14,7 +14,7 @@ materna y biparental contribuyen al entendimiento de la historia evolutiva de es
 
 ![ ](https://cdn.pixabay.com/photo/2018/01/09/10/56/animal-3071324_1280.jpg)
 
-## Requisitos para ejecutar el programa
+#Requisitos para ejecutar el programa
 •Esearch
 •datasets
 •MAFFT
@@ -23,7 +23,7 @@ materna y biparental contribuyen al entendimiento de la historia evolutiva de es
 •Git
 •Figtree
 
-## Como usar los programas?
+#Como usar los programas?
 1. Buscar y descargar las secuencias de las especies elegidas (*Panthera tigris* y *Panthera leo*) junto con los nombres de los genes “cytochrome b” (mitocondrial) y “RAG1” (nuclear) en NCBI GenBank, usando `esearch` y `efetch`.
 2. Descargar las secuencias en formato FASTA y guardarlas en archivos separados.
 3. Pegar cada secuencia FASTA en la herramienta BLAST de NCBI para confirmar que corresponde correctamente al organismo seleccionado.
