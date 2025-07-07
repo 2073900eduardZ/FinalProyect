@@ -94,7 +94,8 @@ Cada script está diseñado para una etapa específica del pipeline. Pueden ejec
 o integrarse en un script maestro (Master_Script.sh) que automatice todo el proceso en un entorno de cómputo como
  Hoffman2 u otro clúster compatible
 # 1_descarga_datos.sh
-Este es un script en bash que utiliza las herramientas esearch y efetch de Entrez Direct (NCBI) para descargar las secuencias de los genes cytochrome b (mitocondrial) y RAG1 (nuclear) de las especies seleccionadas: Panthera leo y Panthera tigris.
+Este es un script en bash que utiliza las herramientas esearch y efetch de Entrez Direct (NCBI) para descargar las secuencias 
+de los genes cytochrome b (mitocondrial) y RAG1 (nuclear) de las especies seleccionadas: Panthera leo y Panthera tigris.
 
 <<<<<<< HEAD
 >>>>>>> 99b1d4b (Proyecto final)
