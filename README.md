@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 # Huellas evolutivas en felinos
 
@@ -52,12 +50,11 @@ git push
 
 
 ![ ](https://www.petdarling.com/wp-content/uploads/2020/11/felinos-salvajes.jpg)
-=======
+
 # Idea proyecto
-=======
+
 ##Análisis Comparativo de
 Genes Mitocondriales  y Nucleares en Panthera
->>>>>>> fd581da ( new comment)
 
 Edward Oña
 
@@ -70,7 +67,7 @@ materna y biparental contribuyen al entendimiento de la historia evolutiva de es
 •Construcción de árboles filogenéticos
 •Comparación de resultados en ambos tipos
  
-¡ [ ] (https://cdn.pixabay.com/photo/2018/01/09/10/56/animal-3071324_1280.jpg)
+![ ](https://cdn.pixabay.com/photo/2018/01/09/10/56/animal-3071324_1280.jpg)
 
 ## Requisitos para ejecutar el programa
 •Esearch
@@ -97,9 +94,6 @@ o integrarse en un script maestro (Master_Script.sh) que automatice todo el proc
 Este es un script en bash que utiliza las herramientas esearch y efetch de Entrez Direct (NCBI) para descargar las secuencias 
 de los genes cytochrome b (mitocondrial) y RAG1 (nuclear) de las especies seleccionadas: Panthera leo y Panthera tigris.
 
-<<<<<<< HEAD
->>>>>>> 99b1d4b (Proyecto final)
-=======
 * Se descargan las secuencias en formato FASTA.
 
 * Luego se combinan por gen (una secuencia por especie).
@@ -131,4 +125,4 @@ Primero, concatena los archivos .treefile generados por IQ-TREE.
 Luego ejecuta ASTRAL con ese archivo combinado para generar el árbol especie.
 
 El resultado se guarda en astral/species_tree.tre.
->>>>>>> fd581da ( new comment)
+
